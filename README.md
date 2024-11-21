@@ -1,1 +1,1 @@
-Basit Sayaç uygulaması. Zikirmatik yerinede kullanılabilir. 
+React Native Expo ile yapılmış Basit Sayaç uygulaması. Zikirmatik yerinede kullanılabilir. 
